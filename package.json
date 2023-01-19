@@ -1,7 +1,7 @@
 {
   "name": "digital-business-card",
   "version": "0.1.0",
-  "homepage": "https://omveryo.github.io/assets/Digital-Business-Card",
+  "homepage": "https://OmverYo.github.io/Digital-Business-Card",
   "private": true,
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.5",
