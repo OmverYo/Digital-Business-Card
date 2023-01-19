@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Digital-Business-Card/static/css/main.29476abe.css",
+    "main.js": "/Digital-Business-Card/static/js/main.2e51b601.js",
+    "index.html": "/Digital-Business-Card/index.html",
+    "main.29476abe.css.map": "/Digital-Business-Card/static/css/main.29476abe.css.map",
+    "main.2e51b601.js.map": "/Digital-Business-Card/static/js/main.2e51b601.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.29476abe.css",
+    "static/js/main.2e51b601.js"
+  ]
+}
